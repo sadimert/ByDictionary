@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\TheDictionary-master\TheDictionary-master\TheDictionary\bin\Debug\netcoreapp3.1\TheDictionary.exe
+C:\Users\User\Desktop\TheDictionary-master\TheDictionary-master\TheDictionary\bin\Debug\netcoreapp3.1\TheDictionary.deps.json
+C:\Users\User\Desktop\TheDictionary-master\TheDictionary-master\TheDictionary\bin\Debug\netcoreapp3.1\TheDictionary.runtimeconfig.json
+C:\Users\User\Desktop\TheDictionary-master\TheDictionary-master\TheDictionary\bin\Debug\netcoreapp3.1\TheDictionary.runtimeconfig.dev.json
+C:\Users\User\Desktop\TheDictionary-master\TheDictionary-master\TheDictionary\bin\Debug\netcoreapp3.1\TheDictionary.dll
+C:\Users\User\Desktop\TheDictionary-master\TheDictionary-master\TheDictionary\bin\Debug\netcoreapp3.1\TheDictionary.pdb
+C:\Users\User\Desktop\TheDictionary-master\TheDictionary-master\TheDictionary\obj\Debug\netcoreapp3.1\TheDictionary.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TheDictionary-master\TheDictionary-master\TheDictionary\obj\Debug\netcoreapp3.1\TheDictionary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TheDictionary-master\TheDictionary-master\TheDictionary\obj\Debug\netcoreapp3.1\TheDictionary.AssemblyInfo.cs
+C:\Users\User\Desktop\TheDictionary-master\TheDictionary-master\TheDictionary\obj\Debug\netcoreapp3.1\TheDictionary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TheDictionary-master\TheDictionary-master\TheDictionary\obj\Debug\netcoreapp3.1\TheDictionary.dll
+C:\Users\User\Desktop\TheDictionary-master\TheDictionary-master\TheDictionary\obj\Debug\netcoreapp3.1\TheDictionary.pdb
+C:\Users\User\Desktop\TheDictionary-master\TheDictionary-master\TheDictionary\obj\Debug\netcoreapp3.1\TheDictionary.genruntimeconfig.cache
